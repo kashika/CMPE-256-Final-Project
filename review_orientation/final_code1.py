@@ -1,6 +1,6 @@
 #! /usr/bin/python3
 # -*- coding: utf-8 -*-
-
+#This code is extnsion of final_code.py to generate paragraph summary for a restaurant.
 import nltk
 import os, sys
 import re
